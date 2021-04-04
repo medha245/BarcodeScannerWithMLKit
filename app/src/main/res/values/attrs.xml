@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <declare-styleable name="CameraSourcePreview">
+        <attr name="rectangle_width" format="integer" />
+        <attr name="rectangle_height" format="integer"/>
+        <attr name="center_laser" format="color"/>
+        <attr name="rectangle_border" format="color"/>
+    </declare-styleable>
+</resources>
